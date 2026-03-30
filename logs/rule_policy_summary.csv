@@ -1,0 +1,4 @@
+scenario,num_episodes,success_rate,collision_rate,timeout_rate,avg_return,avg_episode_length,
+head_on,20,0,0.8,0.2,-31.6533535,19.85,
+crossing,20,0,0.6,0.4,-22.90967661,27.4,
+overtaking,20,0,0,1,2.335871457142639,50,
